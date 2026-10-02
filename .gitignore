@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Test results and reports
+allure-results/
+allure-report/
+
+# TypeScript compiled output
+dist/
+
+# System files
+.DS_Store
